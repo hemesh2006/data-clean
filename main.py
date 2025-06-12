@@ -1,4 +1,6 @@
 print("hello")
-print("hello" fkdofsmofd
+print("hello")
+print("ehllo ehtere reded")
 def hello():
-    a=467
+    print("ejll")
+    a=40
